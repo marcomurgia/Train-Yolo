@@ -1,0 +1,13 @@
+attraversamento pedonale
+dare precedenza
+diritto di precedenza
+divieto di fermata
+divieto di sorpasso
+divieto di sosta
+divieto di transito
+limite massimo 50
+parcheggio
+passaggi consentiti
+rotatoria
+senso vietato
+stop

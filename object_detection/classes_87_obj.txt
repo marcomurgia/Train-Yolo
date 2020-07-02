@@ -1,0 +1,87 @@
+altri pericoli
+animali domestici vaganti
+animali selvatici vaganti
+attraversamento ciclabile
+attraversamento pedonale
+bambini
+banchina pericolosa
+caduta massi
+catene per neve obbligatorie
+circolazione rotatoria
+confluenza a destra
+confluenza a sinistra
+cunetta
+curva a destra
+curva a sinistra
+dare precedenza
+direzione obbligatoria a destra
+direzione obbligatoria a sinistra
+direzione obbligatoria diritto
+direzioni consentite destra e sinistra
+direzioni consentite diritto e destra
+direzioni consentite diritto e sinistra
+diritto di precedenza
+diritto di precedenza nei sensi unici alternati
+discesa ripida
+divieto di fermata
+divieto di sorpasso
+divieto di sorpasso per veicoli di massa a pieno carico superiore a 3,5 ton
+divieto di sosta
+divieto di transito
+doppia curva, la prima a destra
+doppia curva, la prima a sinistra
+doppio senso di circolazione
+dosso
+fermarsi e dare precedenza
+intersezione a “t” con diritto di precedenza dx
+intersezione a “t” con diritto di precedenza sx
+intersezione con diritto di precedenza
+intersezione con precedenza a destra
+lavori in corso
+limite massimo di velocita (10)
+limite massimo di velocita (100)
+limite massimo di velocita (110)
+limite massimo di velocita (20)
+limite massimo di velocita (30)
+limite massimo di velocita (40)
+limite massimo di velocita (50)
+limite massimo di velocita (60)
+limite massimo di velocita (70)
+limite massimo di velocita (80)
+limite massimo di velocita (90)
+materiale instabile sulla strada
+parcheggio
+passaggi consentiti
+passaggio a livello con barriere
+passaggio obbligatorio a destra
+passaggio obbligatorio a sinistra
+passo carrabile
+percorso pedonale
+percorso pedonale e ciclabile
+pista ciclabile
+pista ciclabile contigua al marciapiede
+preavviso di direzione obbligatoria a destra
+rotatoria
+salita ripida
+semaforo
+senso unico frontale
+senso unico parallelo dx
+senso unico parallelo sx
+senso vietato
+sos
+strada deformata
+strada sdrucciolevole
+strada senza uscita
+strettoia asimmetrica a destra
+strettoia asimmetrica a sinistra
+strettoia simmetrica
+transito vietato agli autobus
+transito vietato ai pedoni
+transito vietato ai veicoli a motore trainanti un rimorchio
+transito vietato ai veicoli a trazione animale
+transito vietato ai veicoli aventi altezza superiore a x metri
+transito vietato ai veicoli aventi larghezza superiore a x metri
+transito vietato ai veicoli di massa a pieno carico superiore a x tonnellate
+transito vietato alle biciclette
+transito vietato alle biciclette ed motocicli
+via libera
