@@ -5,7 +5,7 @@ To train the algorithm of such a large datset you need a very large number of it
 
 The steps to train this algorithm are very similar to those already seen in the main README. The differences are as follows:
 
-In step 2 the "yolov4" folder should be created instead of the "yolov3" folder.\ 
+In step 2 the "yolov4" folder should be created instead of the "yolov3" folder.\
 In step 3 the "obj.names" file must be added to the newly created folder, in addition to the "images.zip" and "train.txt" files.\
 In step 5 the file "Train_YoloV4_tiny.ipynb" should be loaded instead of "Train_YoloV3_mo.ipynb".
 
