@@ -37,5 +37,3 @@ To test Yolo we download the yolov3_training_last.weights file from the yolov3 d
 ```
 For more information on object_detection visit this site:
 https://docs.opencv.org/master/da/d9d/tutorial_dnn_yolo.html
-
-# Train-Yolo
