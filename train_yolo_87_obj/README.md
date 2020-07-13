@@ -1,7 +1,7 @@
 # Train Yolo 87 objects 
 
 In order to obtain a more complete detection of  Italian Traffic Signs, it was decided to expand the dataset to 87 road signs.\
-The dataset was taken from the following link: https://github.com/marcomoauro/traffic-sign-dataset\
+The dataset was taken from the following link: https://github.com/marcomoauro/traffic-sign-dataset \
 To train the algorithm of such a large datset you need a very large number of iterations, so a faster algorithm has been sought. The fastest to train that has been found is the yolov3-tiny.cfg.
 
 The steps to train this algorithm are very similar to those already seen in the main README. The differences are as follows:
