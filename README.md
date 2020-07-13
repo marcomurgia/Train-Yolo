@@ -1,5 +1,6 @@
 # Train-Yolo
 
+To detect Italian Traffic Signs a dataset was created with images downloaded from google images, of 13 types of signs. The algorithm chosen to detect the signals is called Yolo. \
 The following guides were used to train Yolo and detect custom objects:
 1) https://pysource.com/2020/04/02/train-yolo-to-detect-a-custom-object-online-with-free-gpu/
 2) https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects
