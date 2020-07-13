@@ -12,7 +12,7 @@ In step 5 the file "Train_YoloV3_tiny.ipynb" should be loaded instead of "Train_
 
 The remaining steps are the same.
 
-If you exceed 12 hours of work on google colab go to File -> Open notebook -> upload and insert the file Train_YoloV3_12h.ipynb.
+If you exceed 12 hours of work on google colab go to File -> Open notebook -> upload and insert the file Train_YoloV3_tiny_12h.ipynb.
 Then we repeat steps 6, 7, 8, 9 and 10.
 
 After training the algorithm, we can test it on our webcam.

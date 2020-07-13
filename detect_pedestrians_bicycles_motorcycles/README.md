@@ -1,6 +1,6 @@
 # Detect pedestrians, bicycles and motorcycles
 
-To detect pedestrians, bicycles and motorcycles, a dataset has been created using the following links: \
+To detect pedestrians, bicycles and motorcycles, a dataset has been created using the following links: 
 1. http://www.gavrila.net/data/Daimler/iv16-li-flohr-gavrila-etal/tdcb_leftImg8bit_train.tar.gz (pedastrians and bicycles)
 2. http://velastin.dynu.com/UrbanMotorbike-data/MB7500.zip (motorcycles)
 
