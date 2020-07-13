@@ -1,4 +1,4 @@
-# Train Yolo 87 objects 
+# Detect Italian Traffic Signs
 
 In order to obtain a more complete detection of  Italian Traffic Signs, it was decided to expand the dataset to 87 road signs.\
 The dataset was taken from the following link: https://github.com/marcomoauro/traffic-sign-dataset \
