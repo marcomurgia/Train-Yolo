@@ -31,7 +31,8 @@ Then we repeat steps 6, 7, 8, 9 and 10.
 It may happen that google colab tells you that you cannot use the GPU because you have exceeded the limit, in this case we log out and come back after a some hours.
 
 After training the algorithm, we can test it on our webcam.
-To test Yolo we download the yolov3_training_last.weights file from the yolov3 directory of our account drive. We copy this file into the object_detection directory. We open the object_detection directory and launch the following line of code from the command line:
+To test Yolo we download the yolov3_training_last.weights file from the yolov3 directory of our account drive. We copy this file into the object_detection directory. Then we copy the yolov3_training.cfg file always to the object_detection folder. \
+We open the object_detection directory and launch the following line of code from the command line:
 ```
 ./object_detection --config=yolov3_training.cfg --model=yolov3_training_last.weights --classes=classes_13_obj.txt --width=416 --height=416 --scale=0.0392 --rgb
 ```

@@ -16,7 +16,8 @@ If you exceed 12 hours of work on google colab go to File -> Open notebook -> up
 Then we repeat steps 6, 7, 8, 9 and 10.
 
 After training the algorithm, we can test it on our webcam.
-To test Yolo we download the yolov3_training_last.weights file from the yolov3-tiny directory of our account drive. We copy this file into the object_detection directory. We open the object_detection directory and launch the following line of code from the command line:
+To test Yolo we download the yolov3_training_last.weights file from the yolov3-tiny directory of our account drive. We copy this file into the object_detection directory. Then we copy the yolov3_training.cfg file always to the object_detection folder. \
+We open the object_detection directory and launch the following line of code from the command line:
 ```
 ./object_detection --config=yolov3_training.cfg --model=yolov3_training_last.weights --classes=classes_87_obj.txt --width=416 --height=416 --scale=0.0392 --rgb
 ```
