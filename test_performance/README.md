@@ -10,5 +10,5 @@ After choosing the code optimization level, you can start the test. The steps to
 2. Copy the object_detection_test file to the object_detection folder.
 3. Run this command from the terminal:
 ```
-./object_detection_test --config=yolov4_training.cfg --model=yolov4_training_last.weights --classes=classes_87_obj.txt --width=416 --height=416 --scale=0.0392 --rgb
+./object_detection_test --config=yolov3_training.cfg --model=yolov3_training_last.weights --classes=classes_87_obj.txt --width=416 --height=416 --scale=0.0392 --rgb
 ```
