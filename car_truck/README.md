@@ -4,6 +4,7 @@ To detect car and truck, a dataset has been created using the following links:
 1. https://github.com/hiepnguyen034/Objects_Localization (car)
 2. https://s3.amazonaws.com/udacity-sdc/annotations/object-detection-crowdai.tar.gz (car)
 3. https://github.com/vichuroxx/Road_Traffic_Dataset_YOLO (truck)
+4. https://www.kaggle.com/enesumcu/car-and-truck/data? (car and truck)
 
 The steps to train this dataset are very similar to those already seen in the main README. The differences are as follows:
 
